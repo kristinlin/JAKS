@@ -1,0 +1,178 @@
+oID, oNAME, cID, donate
+0, "leaf and yard waste (do-it-yourself)", NULL, NULL
+1, "3-ring binders", NULL, NULL
+2, "aluminum", NULL, NULL
+3, "antifreeze", NULL, NULL
+4, "appliance containing CFC/Freon", NULL, NULL
+5, "art supplies", NULL, NULL
+6, "asbestos", NULL, NULL
+7, "autobattery", NULL, NULL
+8, "backup battery", NULL, NULL
+9, "barbeque grill", NULL, NULL
+10, "battery (alkaline)", NULL, NULL
+11, "battery (rechargeable)", NULL, NULL
+12, "bed frame (mostly metal or rigid plastic)", NULL, NULL
+13, "bed frame (not mostly metal or rigid plastic)", NULL, NULL
+14, "beer bottle/can", NULL, NULL
+15, "bioplastics", NULL, NULL
+16, "blanket", NULL, NULL
+17, "book (hard cover)", NULL, NULL
+18, "book (paperback)", NULL, NULL
+19, "box spring", NULL, NULL
+20, "branches/tree limbs (do-it-yourself)", NULL, NULL
+21, "branches/tree limbs (hired professional)", NULL, NULL
+22, "broken fluorescent light", NULL, NULL
+23, "bulk (mostly metal or rigid plastic)", NULL, NULL
+24, "bulk (not mostly metal or rigid plastic)", NULL, NULL
+25, "button battery", NULL, NULL
+26, "cables (loose)", NULL, NULL
+27, "cameras", NULL, NULL
+28, "caps and lids", NULL, NULL
+29, "carbonated beverage container", NULL, NULL
+30, "cardboard", NULL, NULL
+31, "cardboard cannisters (metal tops/bottoms)", NULL, NULL
+32, "carpet/rug", NULL, NULL
+33, "cassettes/VHS tapes", NULL, NULL
+34, "catalog", NULL, NULL
+35, "CDs/DVDs/disks", NULL, NULL
+36, "cell phone", NULL, NULL
+37, "children's items", NULL, NULL
+38, "Christmas tree (fake - mostly metal or plastic)", NULL, NULL
+39, "Christmas tree (fake - not mostly metal or rigid plastic)", NULL, NULL
+40, "Christmas tree (natural)", NULL, NULL
+41, "cleaning products (labeled DANGER-corrosive)", NULL, NULL
+42, "cleaning products (NOT labeled DANGER-corrosive)", NULL, NULL
+43, "clips (metal or plastic)", NULL, NULL
+44, "clothing and accessories", NULL, NULL
+45, "collectibles", NULL, NULL
+46, "commercial waste", NULL, NULL
+47, "compact fluorescent light bulb (CFL)", NULL, NULL
+48, "computers and peripherals", NULL, NULL
+49, "construction material (do-it-yourself)", NULL, NULL
+50, "construction material (from hired contractor)", NULL, NULL
+51, "cooking oil and grease", NULL, NULL
+52, "cosmetics", NULL, NULL
+53, "degradable plastics", NULL, NULL
+54, "digital music player (portable)", NULL, NULL
+55, "disposable coffee pods", NULL, NULL
+56, "eyeglasses", NULL, NULL
+57, "fax machine (not connected to a computer)", NULL, NULL
+58, "fire extinguisher (CO2 or dry chemical)", NULL, NULL
+59, "fire extinguisher (non CO2 or dry chemical)", NULL, NULL
+60, "flammable liquids", NULL, NULL
+61, "fluorescent light tube", NULL, NULL
+62, "food (non perishable)", NULL, NULL
+63, "food (perishable fruit and vegetable scraps bread and grains)", NULL, NULL
+64, "food (perishable meat dairy prepared foods)", NULL, NULL
+65, "food or beverage carton", NULL, NULL
+66, "furniture (mostly metal or rigid plastic)", NULL, NULL
+67, "furniture (not mostly metal or rigid plastic)", NULL, NULL
+68, "garden hose", NULL, NULL
+69, "gardening supplies (mostly metal or rigid plastic)", NULL, NULL
+70, "gardening supplies (not mostly metal or rigid plastic)", NULL, NULL
+71, "glass bottle/jar", NULL, NULL
+72, "glass window (metal frame)", NULL, NULL
+73, "glass window (non-metal frame)", NULL, NULL
+74, "glassware", NULL, NULL
+75, "gps devices", NULL, NULL
+76, "grass clippings", NULL, NULL
+77, "hanger (metal or rigid plastic)", NULL, NULL
+78, "hanger (non-metal or rigid plastic)", NULL, NULL
+79, "hanging folder", NULL, NULL
+80, "headphones", NULL, NULL
+81, "helium balloon tank", NULL, NULL
+82, "highly corrosive liquids", NULL, NULL
+83, "household chemicals", NULL, NULL
+84, "household sharps", NULL, NULL
+85, "houseplants and flowers", NULL, NULL
+86, "housewares (mostly metal or rigid plastic)", NULL, NULL
+87, "housewares (not mostly metal or rigid plastic)", NULL, NULL
+88, "knife/sharp metal object", NULL, NULL
+89, "large appliance (mostly metal or rigid plastic no CFCs)", NULL, NULL
+90, "aerosol can (empty)", NULL, NULL
+91, "leaf and yard waste (from hired landscaper)", NULL, NULL
+92, "license plates", NULL, NULL
+93, "light bulb (incandescent or LED)", NULL, NULL
+94, "lighters", NULL, NULL
+95, "lighting fixtures/lamps (metal or rigid plastic)", NULL, NULL
+96, "luggage/suit case", NULL, NULL
+97, "mail", NULL, NULL
+98, "mattress", NULL, NULL
+99, "medical equipment (mostly metal or rigid plastic)", NULL, NULL
+100, "medical equipment (not mostly metal or rigid plastic)", NULL, NULL
+101, "medical waste (household- other than sharps or medications)", NULL, NULL
+102, "mercury (liquid)", NULL, NULL
+103, "mercury thermometers and other mercury containing devices", NULL, NULL
+104, "metal can", NULL, NULL
+105, "microwave (mostly metal or rigid plastic)", NULL, NULL
+106, "microwave (not mostly metal or rigid plastic)", NULL, NULL
+107, "mixed paper", NULL, NULL
+108, "motor oil", NULL, NULL
+109, "motor oil filter", NULL, NULL
+110, "musical instrument (mostly metal or rigid plastic)", NULL, NULL
+111, "musical instrument (not mostly metal or rigid plastic)", NULL, NULL
+112, "newspapers magazines and catalogs", NULL, NULL
+113, "office supplies (mostly metal or rigid plastic)", NULL, NULL
+114, "office supplies (paper & cardboard)", NULL, NULL
+115, "other gas tanks (acetylene or oxygen or other)", NULL, NULL
+116, "paint (latex) in metal or rigid plastic can or bucket", NULL, NULL
+117, "paint (non-latex) in non-metal or plastic can or bucket", NULL, NULL
+118, "pens/markers", NULL, NULL
+119, "personal hygiene items", NULL, NULL
+120, "pesticides", NULL, NULL
+121, "pizza box", NULL, NULL
+122, "plastic bag", NULL, NULL
+123, "plastic envelopes", NULL, NULL
+124, "plastic flexible packaging", NULL, NULL
+125, "plastic food wraps and wrappers", NULL, NULL
+126, "plastic photographic film", NULL, NULL
+127, "plastic rigid container (food and beverage)", NULL, NULL
+128, "plastic rigid container (household chemicals DANGER-corrosive)", NULL, NULL
+129, "plastic rigid container (non food or chemical)", NULL, NULL
+130, "plastic rigid packaging", NULL, NULL
+131, "plastic rings", NULL, NULL
+132, "plastic shipping packaging", NULL, NULL
+133, "plastic wrap/plastic food bags", NULL, NULL
+134, "plumbing (metal)", NULL, NULL
+135, "plumbing (non-metal)", NULL, NULL
+136, "print cartridges", NULL, NULL
+137, "propane tanks", NULL, NULL
+138, "protective packaging (foam)", NULL, NULL
+139, "protective packaging (paper or cardboard)", NULL, NULL
+140, "protective packaging (rigid plastic)", NULL, NULL
+141, "shredded paper", NULL, NULL
+142, "single-use food service items (foam)", NULL, NULL
+143, "single-use food service items (not rigid plastic or paper)", NULL, NULL
+144, "single-use food service items (paper or cardboard)", NULL, NULL
+145, "single-use food service items (rigid plastic - not foam)", NULL, NULL
+146, "small appliance (mostly metal or rigid plastic)", NULL, NULL
+147, "small appliance (not mostly metal or rigid plastic)", NULL, NULL
+148, "small appliance (with rechargeable batteries)", NULL, NULL
+149, "smoke detectors (optical) or carbon monoxide detectors", NULL, NULL
+150, "smoke or carbon monoxide detectors (ionization)", NULL, NULL
+151, "sofa bed", NULL, NULL
+152, "soiled paper", NULL, NULL
+153, "sponges", NULL, NULL
+154, "sport equipment (mostly metal or rigid plastic)", NULL, NULL
+155, "sport equipment (not mostly metal or rigid plastic)", NULL, NULL
+156, "tablets and e-readers", NULL, NULL
+157, "telephone (non-mobile)", NULL, NULL
+158, "telephone book", NULL, NULL
+159, "thermostats (mercury)", NULL, NULL
+160, "tire (auto)", NULL, NULL
+161, "tire (bicycle)", NULL, NULL
+162, "toothbrush (rigid plastic)", NULL, NULL
+163, "toothbrush (electric)", NULL, NULL
+164, "toy (mostly metal or rigid plastic)", NULL, NULL
+165, "toy (not mostly metal or rigid plastic)", NULL, NULL
+166, "TVs and peripherals", NULL, NULL
+167, "umbrellas", NULL, NULL
+168, "unwanted medication", NULL, NULL
+169, "vehicle", NULL, NULL
+170, "wagon/cart (mostly metal or rigid plastic)", NULL, NULL
+171, "wagon/cart (not mostly metal or rigid plastic)", NULL, NULL
+172, "water bottle", NULL, NULL
+173, "wax or plastic coated paper", NULL, NULL
+174, "wine bottle", NULL, NULL
+175, "wine cooler", NULL, NULL
+176, "wreath", NULL, NULL

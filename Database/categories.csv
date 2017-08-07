@@ -1,0 +1,4 @@
+cID, cNAME, dSITES
+1000, "Recyclable", NULL
+1001, "Food Scraps", NULL
+1002, "Special Waste", NULL
