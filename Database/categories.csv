@@ -1,4 +1,6 @@
 cID, cNAME, dSITES
-1000, "Recyclable", NULL
-1001, "Food Scraps", NULL
-1002, "Special Waste", NULL
+1000, "Recyclable", 2000
+1001, "Food Scraps", 3000
+1002, "Non-Food Organics", 4000
+1003, "Special Waste", 5000
+1004, "Other", 6000
