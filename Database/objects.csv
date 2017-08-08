@@ -1,178 +1,181 @@
-oID, oNAME, cID, donate
-0, "leaf and yard waste (do-it-yourself)", NULL, NULL
-1, "3-ring binders", NULL, NULL
-2, "aluminum", NULL, NULL
-3, "antifreeze", NULL, NULL
-4, "appliance containing CFC/Freon", NULL, NULL
-5, "art supplies", NULL, NULL
-6, "asbestos", NULL, NULL
-7, "autobattery", NULL, NULL
-8, "backup battery", NULL, NULL
-9, "barbeque grill", NULL, NULL
-10, "battery (alkaline)", NULL, NULL
-11, "battery (rechargeable)", NULL, NULL
-12, "bed frame (mostly metal or rigid plastic)", NULL, NULL
-13, "bed frame (not mostly metal or rigid plastic)", NULL, NULL
-14, "beer bottle/can", NULL, NULL
-15, "bioplastics", NULL, NULL
-16, "blanket", NULL, NULL
-17, "book (hard cover)", NULL, NULL
-18, "book (paperback)", NULL, NULL
-19, "box spring", NULL, NULL
-20, "branches/tree limbs (do-it-yourself)", NULL, NULL
-21, "branches/tree limbs (hired professional)", NULL, NULL
-22, "broken fluorescent light", NULL, NULL
-23, "bulk (mostly metal or rigid plastic)", NULL, NULL
-24, "bulk (not mostly metal or rigid plastic)", NULL, NULL
-25, "button battery", NULL, NULL
-26, "cables (loose)", NULL, NULL
-27, "cameras", NULL, NULL
-28, "caps and lids", NULL, NULL
-29, "carbonated beverage container", NULL, NULL
-30, "cardboard", NULL, NULL
-31, "cardboard cannisters (metal tops/bottoms)", NULL, NULL
-32, "carpet/rug", NULL, NULL
-33, "cassettes/VHS tapes", NULL, NULL
-34, "catalog", NULL, NULL
-35, "CDs/DVDs/disks", NULL, NULL
-36, "cell phone", NULL, NULL
-37, "children's items", NULL, NULL
-38, "Christmas tree (fake - mostly metal or plastic)", NULL, NULL
-39, "Christmas tree (fake - not mostly metal or rigid plastic)", NULL, NULL
-40, "Christmas tree (natural)", NULL, NULL
-41, "cleaning products (labeled DANGER-corrosive)", NULL, NULL
-42, "cleaning products (NOT labeled DANGER-corrosive)", NULL, NULL
-43, "clips (metal or plastic)", NULL, NULL
-44, "clothing and accessories", NULL, NULL
-45, "collectibles", NULL, NULL
-46, "commercial waste", NULL, NULL
-47, "compact fluorescent light bulb (CFL)", NULL, NULL
-48, "computers and peripherals", NULL, NULL
-49, "construction material (do-it-yourself)", NULL, NULL
-50, "construction material (from hired contractor)", NULL, NULL
-51, "cooking oil and grease", NULL, NULL
-52, "cosmetics", NULL, NULL
-53, "degradable plastics", NULL, NULL
-54, "digital music player (portable)", NULL, NULL
-55, "disposable coffee pods", NULL, NULL
-56, "eyeglasses", NULL, NULL
-57, "fax machine (not connected to a computer)", NULL, NULL
-58, "fire extinguisher (CO2 or dry chemical)", NULL, NULL
-59, "fire extinguisher (non CO2 or dry chemical)", NULL, NULL
-60, "flammable liquids", NULL, NULL
-61, "fluorescent light tube", NULL, NULL
-62, "food (non perishable)", NULL, NULL
-63, "food (perishable fruit and vegetable scraps bread and grains)", NULL, NULL
-64, "food (perishable meat dairy prepared foods)", NULL, NULL
-65, "food or beverage carton", NULL, NULL
-66, "furniture (mostly metal or rigid plastic)", NULL, NULL
-67, "furniture (not mostly metal or rigid plastic)", NULL, NULL
-68, "garden hose", NULL, NULL
-69, "gardening supplies (mostly metal or rigid plastic)", NULL, NULL
-70, "gardening supplies (not mostly metal or rigid plastic)", NULL, NULL
-71, "glass bottle/jar", NULL, NULL
-72, "glass window (metal frame)", NULL, NULL
-73, "glass window (non-metal frame)", NULL, NULL
-74, "glassware", NULL, NULL
-75, "gps devices", NULL, NULL
-76, "grass clippings", NULL, NULL
-77, "hanger (metal or rigid plastic)", NULL, NULL
-78, "hanger (non-metal or rigid plastic)", NULL, NULL
-79, "hanging folder", NULL, NULL
-80, "headphones", NULL, NULL
-81, "helium balloon tank", NULL, NULL
-82, "highly corrosive liquids", NULL, NULL
-83, "household chemicals", NULL, NULL
-84, "household sharps", NULL, NULL
-85, "houseplants and flowers", NULL, NULL
-86, "housewares (mostly metal or rigid plastic)", NULL, NULL
-87, "housewares (not mostly metal or rigid plastic)", NULL, NULL
-88, "knife/sharp metal object", NULL, NULL
-89, "large appliance (mostly metal or rigid plastic no CFCs)", NULL, NULL
-90, "aerosol can (empty)", NULL, NULL
-91, "leaf and yard waste (from hired landscaper)", NULL, NULL
-92, "license plates", NULL, NULL
-93, "light bulb (incandescent or LED)", NULL, NULL
-94, "lighters", NULL, NULL
-95, "lighting fixtures/lamps (metal or rigid plastic)", NULL, NULL
-96, "luggage/suit case", NULL, NULL
-97, "mail", NULL, NULL
-98, "mattress", NULL, NULL
-99, "medical equipment (mostly metal or rigid plastic)", NULL, NULL
-100, "medical equipment (not mostly metal or rigid plastic)", NULL, NULL
-101, "medical waste (household- other than sharps or medications)", NULL, NULL
-102, "mercury (liquid)", NULL, NULL
-103, "mercury thermometers and other mercury containing devices", NULL, NULL
-104, "metal can", NULL, NULL
-105, "microwave (mostly metal or rigid plastic)", NULL, NULL
-106, "microwave (not mostly metal or rigid plastic)", NULL, NULL
-107, "mixed paper", NULL, NULL
-108, "motor oil", NULL, NULL
-109, "motor oil filter", NULL, NULL
-110, "musical instrument (mostly metal or rigid plastic)", NULL, NULL
-111, "musical instrument (not mostly metal or rigid plastic)", NULL, NULL
-112, "newspapers magazines and catalogs", NULL, NULL
-113, "office supplies (mostly metal or rigid plastic)", NULL, NULL
-114, "office supplies (paper & cardboard)", NULL, NULL
-115, "other gas tanks (acetylene or oxygen or other)", NULL, NULL
-116, "paint (latex) in metal or rigid plastic can or bucket", NULL, NULL
-117, "paint (non-latex) in non-metal or plastic can or bucket", NULL, NULL
-118, "pens/markers", NULL, NULL
-119, "personal hygiene items", NULL, NULL
-120, "pesticides", NULL, NULL
-121, "pizza box", NULL, NULL
-122, "plastic bag", NULL, NULL
-123, "plastic envelopes", NULL, NULL
-124, "plastic flexible packaging", NULL, NULL
-125, "plastic food wraps and wrappers", NULL, NULL
-126, "plastic photographic film", NULL, NULL
-127, "plastic rigid container (food and beverage)", NULL, NULL
-128, "plastic rigid container (household chemicals DANGER-corrosive)", NULL, NULL
-129, "plastic rigid container (non food or chemical)", NULL, NULL
-130, "plastic rigid packaging", NULL, NULL
-131, "plastic rings", NULL, NULL
-132, "plastic shipping packaging", NULL, NULL
-133, "plastic wrap/plastic food bags", NULL, NULL
-134, "plumbing (metal)", NULL, NULL
-135, "plumbing (non-metal)", NULL, NULL
-136, "print cartridges", NULL, NULL
-137, "propane tanks", NULL, NULL
-138, "protective packaging (foam)", NULL, NULL
-139, "protective packaging (paper or cardboard)", NULL, NULL
-140, "protective packaging (rigid plastic)", NULL, NULL
-141, "shredded paper", NULL, NULL
-142, "single-use food service items (foam)", NULL, NULL
-143, "single-use food service items (not rigid plastic or paper)", NULL, NULL
-144, "single-use food service items (paper or cardboard)", NULL, NULL
-145, "single-use food service items (rigid plastic - not foam)", NULL, NULL
-146, "small appliance (mostly metal or rigid plastic)", NULL, NULL
-147, "small appliance (not mostly metal or rigid plastic)", NULL, NULL
-148, "small appliance (with rechargeable batteries)", NULL, NULL
-149, "smoke detectors (optical) or carbon monoxide detectors", NULL, NULL
-150, "smoke or carbon monoxide detectors (ionization)", NULL, NULL
-151, "sofa bed", NULL, NULL
-152, "soiled paper", NULL, NULL
-153, "sponges", NULL, NULL
-154, "sport equipment (mostly metal or rigid plastic)", NULL, NULL
-155, "sport equipment (not mostly metal or rigid plastic)", NULL, NULL
-156, "tablets and e-readers", NULL, NULL
-157, "telephone (non-mobile)", NULL, NULL
-158, "telephone book", NULL, NULL
-159, "thermostats (mercury)", NULL, NULL
-160, "tire (auto)", NULL, NULL
-161, "tire (bicycle)", NULL, NULL
-162, "toothbrush (rigid plastic)", NULL, NULL
-163, "toothbrush (electric)", NULL, NULL
-164, "toy (mostly metal or rigid plastic)", NULL, NULL
-165, "toy (not mostly metal or rigid plastic)", NULL, NULL
-166, "TVs and peripherals", NULL, NULL
-167, "umbrellas", NULL, NULL
-168, "unwanted medication", NULL, NULL
-169, "vehicle", NULL, NULL
-170, "wagon/cart (mostly metal or rigid plastic)", NULL, NULL
-171, "wagon/cart (not mostly metal or rigid plastic)", NULL, NULL
-172, "water bottle", NULL, NULL
-173, "wax or plastic coated paper", NULL, NULL
-174, "wine bottle", NULL, NULL
-175, "wine cooler", NULL, NULL
-176, "wreath", NULL, NULL
+oID, oNAME, cID, howTO
+0, "3-ring binders", 2000, "Discard as garbage on regular collection day(s). Can recycle the metal parts with metal, glass, plastic, & cartons."
+1, "aerosol can (empty)", 2000, "Discard as garbage on regular collection day(s). Can recycle the metal parts with metal, glass, plastic, & cartons."
+2, "aluminum", 2000, "Empty & rinse. Recycle with metal, glass, plastic, & cartons"
+3, "antifreeze", 2000, "Never drain antifreeze onto the street, and do not dispose down the drain, in sewers, or into streams. Have your antifreeze changed by a professional who offers recycling. Antifreeze can also be taken to upcoming DSNY SAFE disposal events. Otherwise, dry out antifreeze using kitty litter, newspaper, or other absorbent material prior to discarding in the garbage. Empty antifreeze containers can be recycled with other metal, glass, plastic & cartons."
+4, "appliance containing CFC/Freon", 6000, "Donate or sell working appliances. Otherwise make appointment with DSNY to remove CFCs and recycle the metal. For safety reasons, you must remove doors prior to set out."
+5, "art supplies", 2000, "Donate or sell; recycle clean paper, empty and recycle metal, plastic and glass containers; all other material, discard as garbage on regular collection day(s)"
+6, "asbestos", 6000, "Asbestos should never be disposed of at the curb. Contact an appropriate private hazardous/chemical waste company."
+7, "autobattery", 5000, "It is illegal to discard a car battery in the garbage or recycling or on the street. Auto batteries can be recycled at service stations or auto supply stores that sell them, or take to household special waste drop-off site or upcoming DSNY SAFE disposal event."
+8, "backup battery", 5000, "Illegal to discard in garbage or recycling if less than 25 lbs. Recycle through a retailer or manufacturer take-back program or take to household special waste drop-off site or upcoming DSNY SAFE disposal event."
+9, "barbeque grill", 6000, "Remove propane tank and set out as bulk metal next to recycling container on your recycling collection day. Propane tanks can't be discarded at the curb. Exchange empty propane tank for a full tank at any local propane tank dealer. If not exchanging your tank, ask dealer to recycle, or bring to a scrap metal dealer. Propane tanks can be taken to upcoming DSNY SAFE Disposal Events."
+10, "battery (alkaline)", 5000, "Discard alkaline batteries in the garbage (they aren't hazardous since they no longer contain mercury) or take to household special waste drop-off site or upcoming DSNY SAFE disposal event."
+11, "battery (rechargeable)", 5000, "Illegal to discard with garbage or recycling. Stores in NY State that sell rechargeable batteries or products that contain them (with the exception of small food stores) must accept up to ten batteries of the same shape and size that they sell or take to household special waste drop-off site or upcoming DSNY SAFE disposal event. Individually bag batteries or tape terminals prior to dropping off."
+12, "bed frame (mostly metal or rigid plastic)", 6000, "Set out next to your recycling container on your recycling collection day. Fully wrap mattresses and box springs within a sealed plastic bag (to prevent spread of bed bugs)"
+13, "bed frame (not mostly metal or rigid plastic)", 6000, "Remove mattress and box spring. Discard as bulk garbage on regular collection day(s). Fully wrap mattresses and box springs within a sealed plastic bag (to prevent spread of bed bugs)"
+14, "beer bottle/can", 2000, "Empty & rinse. Recycle with other metal, glass, plastic & cartons, or return to store for refund if there is a deposit on the container."
+15, "bioplastics", 2000, "Recycle with metal, glass, plastic, & cartons. Do not place these items in home composting bins, even if they say compostable. Compostable plastics can only be composted in industrial-scale facilities designed to handle such material."
+16, "blanket", 6000, "Donate or sell; or discard as garbage on regular collection day(s)."
+17, "book (hard cover)", 6000, "Donate or sell if in good condition. Otherwise discard as non-recyclable garbage on regular collection day(s); do not place in recycling bin."
+18, "book (paperback)", 2000, "Donate or sell if in good condition. Otherwise, recycle with mixed paper and cardboard."
+19, "box spring", 6000, "Must fully enclose within a sealed plastic bag (to prevent spread of bed bugs) and discard as bulk garbage on regular collection day(s). (Beds cannot be donated.)"
+20, "branches/tree limbs (do-it-yourself)", 6000, "Sanitation can't collect firewood and wood from trees growing on residential properties in Brooklyn and Queens due to Asian Longhorned Beetle infestation. Schedule an appointment with Parks & Recreation for free on-site chipping and disposal in designated areas. All other areas can discard this material as bulk garbage on regular collection days (it can be collected separately in organics collection pilot areas). Branches must be bundled 2 feet by 4 feet or smaller."
+21, "branches/tree limbs (hired professional)", 6000, "Branches generated by hired professionals can't be set out for curbside collection. Professionals must dispose of branches they generate at a permitted composting facility. This includes proper disposal of wood from trees within Asian Longhorned Beetle quarantine zones."
+22, "broken fluorescent light", 6000,"Contains minimal amounts of mercury. The EPA recommends as a best practice that you air out the room with a window or door; collect materials with cardboard, tape, or wet paper; and place into a sealable container. Turn off air conditioning or heating unit if possible. Can be taken to upcoming DSNY SAFE disposal events. Can also be legally discarded in garbage, but double bag for safety."
+23, "bulk (mostly metal or rigid plastic)", 6000, "Set out bulk metal and bulk plastic next to your recycling container on your recycling collection day. For appliances containing CFCs, you must schedule an appointment to place item at the curb for CFC recovery. Discard pvc pipes as bulk garbage."
+24, "bulk (not mostly metal or rigid plastic)", 6000, "Place large non-metal or plastic items out for collection the night before your garbage collection day. Sanitation will collect up to six items from one address. Other restrictions apply for yard waste, construction debris, and mattresses."
+25, "button battery", 5000, "Recycle at a jewelry store, watch repair shop, or camera store. Otherwise, discard as garbage or take to a household special waste drop-off site or upcoming DSNY SAFE disposal event (individually bag batteries or tape terminals before dropping off)."
+26, "cables (loose)", 6000, "Donate or sell if in working condition. Check with retailers for take-back options. Otherwise, discard as garbage on regular collection day(s)."
+27, "cameras", 6000, "Donate or sell if in working condition. Check with camera retailers for take-back options. Otherwise, discard as garbage on regular collection day(s)."
+28, "caps and lids", 2000, "Recycle caps and lids with metal, glass, plastic, & cartons"
+29, "carbonated beverage container", 2000, "Empty & rinse. Recycle with other metal, glass, plastic & cartons, or return to store for refund if there is a deposit on the container."
+30, "cardboard", 2000, "Recycle cardboard with your mixed paper. Flatten and bundle large pieces, or break into small pieces and place in recycling bin or bag."
+31, "cardboard cannisters (metal tops/bottoms)", 6000, "These items are problematic to recycle; do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+32, "carpet/rug", 6000, "See if installer will take back old carpet or rug, or donate or sell if in good condition. Otherwise discard as bulk garbage on regular collection day(s) (remove all nails or staples and securely tie in bales no more than 2 feet high and 4 feet long)."
+33, "cassettes/VHS tapes", 6000, "These items are problematic to recycle, do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+34, "catalog", 2000, "Recycle catalogs with mixed paper and cardboard. Take steps to remove your name from junk mail lists."
+35, "CDs/DVDs/disks", 2000, "Donate or sell if in working condition; or recycle with metal, glass, plastic, & cartons."
+36, "cell phone", 6000, "Recycle unwanted cell phones and accessories by dropping them off at retail locations sponsoring a take-back program. Can also be taken to upcoming DSNY SAFE disposal events. Cell phones should not be placed in the garbage unless the battery is removed."
+37, "children's items", 2000, "Donate or sell if in good condition (certain restrictions apply). Otherwise discard as garbage or recycle when appropriate."
+38, "Christmas tree (fake - mostly metal or plastic)", 6000, "Donate or sell if in good condition. Remove ornaments and set out next to recycling container on your recycling day."
+39, "Christmas tree (fake - not mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition. Discard as garbage on regular collection day(s)."
+40, "Christmas tree (natural)", 6000, "Remove all ornaments, lights, tinsel, and stands and take to MulchFest for free chipping or set out on regular collection day(s) in early January for DSNY composting collection. Trees set out at other times will be collected as bulk garbage."
+41, "cleaning products (labeled DANGER-corrosive)", 6000, "Do not pour down the drain. Use up cleaning products instead of discarding. Cleaning products can be taken to upcoming DSNY SAFE disposal events. Otherwise, dry out any remaining cleaning products with kitty litter, newspaper, other absorbent material before discarding as garbage. Before discarding, double bag these containers (empty or dried out) and mark the bag \"DANGER - not for recycling.\""
+42, "cleaning products (NOT labeled DANGER-corrosive)", 2000, "Use up cleaning products instead of discarding. Cleaning products can be taken to upcoming DSNY SAFE disposal events. Otherwise, dry out any remaining cleaning products with kitty litter, newspaper, other absorbent material before discarding as garbage. Empty containers can be recycled with metal, glass, plastic & cartons."
+43, "clips (metal or plastic)", 2000, "Recycle with metal, glass, plastic & cartons."
+44, "clothing and accessories", 6000, "Donate or sell if in good condition. Sign your building or business up for a re-fashioNYC clothing donation bin. Otherwise, discard as garbage on regular collection day(s)."
+45, "collectibles", 2000, "Donate or sell if in good condition. Otherwise recycle predominately metal or rigid plastic items or discard as garbage on regular collection day(s)."
+46, "commercial waste", 6000, "Other than certain non-profits, institutions, and professional establishments doing business in residential buildings, DSNY does not provide service to private companies. Commercial buildings that do not qualify for DSNY service must follow commercial disposal guidelines."
+47, "compact fluorescent light bulb (CFL)", 5000, "Contains minimal amount of mercury. Take back to retailer that accepts CFLs, or to household special waste drop-off site or upcoming DSNY SAFE disposal event. Can legally discard in garbage, but double bag for safety."
+48, "computers and peripherals", "Donate or sell if in working condition. Otherwise recycle through a legally-mandated free take-back program for computers, monitors, keyboards, mice, scanners, printers, and small servers. Can be taken to upcoming DSNY SAFE disposal events. It is illegal to place electronic waste in the garbage."
+49, "construction material (do-it-yourself)", 6000, "Donate or sell if in good condition. Hire a private removal company for large projects. For smaller projects (generating six items or less), recycle metal and rigid plastic items (except pvc pipes) next to recycling containers on your recycling day; discard other items as garbage on regular collection day(s). Before setting out, remove or flatten sharp objects (nail, staples, etc.) and securely bag (no more than 60 lbs) or tie in bales (no more than 2 feet high and 4 feet long)."
+50, "construction material (from hired contractor)", 6000, "Cannot be discarded as residential garbage. Contractor is responsible for the removal of this material. Request that contractor donate or sell if in good condition."
+51, "cooking oil and grease", 6000, "Cooking oil and grease can be placed in a container, like a frozen juice container, a beverage carton, or a take-out container. Label the container "Cooking Oil - Not for Recycling" and discard with regular garbage. Alternately, put cooled cooking oil/grease in a plastic bag and freeze before discarding."
+52, "cosmetics", 2000, "Some cosmetics can be mailed back to manufacturers for recycling. Otherwise discard cosmetic product in the garbage and recycle empty metal, glass or rigid plastic containers."
+53, "degradable plastics", 2000, "Recycle with metal, glass, plastic or cartons"
+54, "digital music player (portable)", 6000, "Donate or sell if in working condition. Otherwise recycle through a legally-mandated free take-back program. Can be taken to upcoming DSNY SAFE disposal events. It is illegal to place electronic waste in the garbage."
+55, "disposable coffee pods", 2000, "Empty & rinse. Recycle with metal, glass, plastic, & cartons. Certain brands have take-back options, see manufacturers' website."
+56, "eyeglasses", 6000, "Donate or sell if in working condition. Otherwise, discard as garbage on regular pickup day(s)."
+57, "fax machine (not connected to a computer)", 6000, "Donate or sell if in working condition. Check with retailers for take-back options. It is illegal to place electronic waste in the garbage."
+58, "fire extinguisher (CO2 or dry chemical)", 6000, "Contact a local FDNY-certified fire extinguisher retailer to refill. Otherwise, relieve the pressure, remove the head, and place in your recycling. Follow the National Fire Protection Association's PASS technique to ensure that you have appropriately emptied your fire extinguisher. Do not recycle unless the head is removed because fire extinguishers are pressurized and may explode when compressed in a truck. If you are unsure about the type of fire extinguisher, check the label."
+59, "fire extinguisher (non CO2 or dry chemical)", 6000, "Old fire extinguishers and fire extinguishers that are not dry chemical or carbon dioxide may contain carbon tetrachloride, a known carcinogen. Do not place at the curb. Contact a local FDNY-certified fire extinguisher retailer to request that they dispose of your extinguisher. Can be taken to upcoming DSNY SAFE Disposal Events. If you are unsure about the type of fire extinguisher, check the label."
+60, "flammable liquids", 6000, "Highly flammable liquids (such as gasoline) should never be disposed of at the curb or down the drain. Use the material up instead of disposing. Flammable liquids can be taken to upcoming DSNY SAFE disposal events. Otherwise, contact an appropriate private hazardous/chemical waste company."
+61, "fluorescent light tube", 5000, "Contains some mercury. Take to household special waste drop-off site or upcoming DSNY SAFE disposal event. Can legally discard in garbage, but double bag for safety."
+62, "food (non perishable)", 3000, "Donate canned and packaged food. Otherwise drop it off for neighborhood composting. Alternatively, discard contents as regular garbage (food can be collected separately in organics collection pilot areas). Recycle the empty and rinsed food containers if metal, glass, plastic or cartons. (Discard foam containers.)"
+63, "food (perishable fruit and vegetable scraps bread and grains)", 3000, "Compost it at home or drop it off for neighborhood composting. Alternatively, discard as garbage on regular collection days (food can be collected separately in organics collection pilot areas). Recycle the empty and rinsed food containers if metal, glass, plastic or cartons. (Discard foam containers.)"
+64, "food (perishable meat dairy prepared foods)", 2000, "Discard as garbage on regular collection days (food can be collected separately in organics collection pilot areas). Recycle the empty and rinsed food containers if metal, glass, plastic or cartons. (Discard foam containers.)"
+65, "food or beverage carton", 2000, "Empty & rinse. Recycle with metal, glass, plastic, & cartons."
+66, "furniture (mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition. Otherwise set out bulk metal and bulk plastic next to your recycling container on your recycling collection day."
+67, "furniture (not mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition. Otherwise discard as garbage on regular collection day(s)."
+68, "garden hose", 6000, "These items are problematic to recycle, do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+69, "gardening supplies (mostly metal or rigid plastic)", 2000, "Recycle with metal, glass, plastic or cartons"
+70, "gardening supplies (not mostly metal or rigid plastic)", 6000, "Donate if in working order. Otherwise, discard as garbage on your regular collection day(s)."
+71, "glass bottle/jar", 2000, "Empty & rinse and recycle with metal, glass, plastic & cartons (if broken, double-bag to prevent injury)."
+72, "glass window (metal frame)", 6000, "Donate or sell if in good condition. Otherwise set out with other bulk metal items on your recycling collection day (tape glass before setting out for recycling collection)."
+73, "glass window (non-metal frame)", 6000, "Donate or sell if in good condition. Otherwise discard with other bulk garbage items on regular collection day(s); tape glass before setting out for collection."
+74, "glassware", 6000, "Donate or sell if in good condition. Otherwise, discard as garbage (if broken, double-bag to prevent injury). Bottles & jars are the only glass items that can be recycled with DSNY."
+75, "gps devices", 6000,"Donate or sell if in working condition. Check with retailers for take-back options. Otherwise, discard as garbage on your regular collection day(s)."
+76, "grass clippings", 4000, "Leave grass clippings on the lawn. Otherwise discard as regular garbage (if self-mowed), or separate it for DSNY organics collection if you are in a pilot organics neighborhood. Private landscapers can't leave clippings at the curb; they must be taken instead to a compost facility."
+77, "hanger (metal or rigid plastic)", 2000, "Bring back to drycleaner, reuse at home, or recycle with metal, glass, plastic, & cartons."
+78, "hanger (non-metal or rigid plastic)", 6000, "Bring back to drycleaner, reuse at home, or discard as garbage on regular collection day(s)."
+79, "hanging folder", 2000, "Separate metal hangers from paper. Remaining paper can be recycled with mixed paper and cardboard and the metal hangers can be recycled with metal, glass, plastic & cartons."
+80, "headphones", 6000, "Donate or sell if in working condition. Check with retailers or manufacturers for take-back options. Otherwise, discard as garbage on your regular collection day(s)."
+81, "helium balloon tank", 6000, "Portable helium tanks can be recycled with bulk metal once they are emptied, the pressure has been relieved, and the head has been removed. Do not recycle unless the head is removed because the tanks are pressurized and may explode when compressed in a truck."
+82, "highly corrosive liquids", 6000, "Highly corrosive liquids (such as hydrofluoric, sulfuric, or muriatic acids) should never be disposed of at the curb or down the drain. Use the material up instead of disposing. Highly corrosive liquids can be taken to upcoming DSNY SAFE disposal events. Otherwise, contact an appropriate private hazardous/chemical waste company. Empty containers cannot be recycled and must be discarded as garbage. Before putting in the garbage double bag these containers and mark the bag \"DANGER - not for recycling.\""
+83, "household chemicals", 2000, "Use up instead of discarding. Household chemicals can be taken to upcoming DSNY SAFE disposal events. Other than highly corrosive or flammable liquids, small quantities of household chemicals can be discarded at the curb. Dry out any remaining cleaning products with kitty litter, newspaper, other absorbent material before discarding as garbage. Empty containers can be recycled as applicable unless labeled "DANGER - Corrosive"; these containers may be put in the garbage, provided they are double-bagged and the bag is marked \"DANGER - not for recycling.\""
+84, "household sharps", 6000, "Carefully place in leak-proof and puncture-resistant container labeled "Home Sharps - not for recycling" and discard as regular garbage. Otherwise bring to any hospital or nursing home in NY State (some pharmacies may accept them as well). Household sharps can also be taken to upcoming DSNY SAFE disposal events."
+85, "houseplants and flowers", 4000, "Discard as garbage on your regular collection day(s). Houseplants and flowers can be composted at home, or brought to an organics drop-off site. Recycle metal and rigid plastic flower pots with metal, glass, plastic & cartons. (Discard foam containers.)"
+86, "housewares (mostly metal or rigid plastic)", 2000, "Donate or sell if in good condition. Otherwise, recycle any metal with metal, glass, plastic & cartons."
+87, "housewares (not mostly metal or rigid plastic)", 6000, "If applicable, donate or sell if in good condition. Otherwise discard with regular garbage. For safety, double bag broken glass and tape large glass items before setting out for collection."
+88, "knife/sharp metal object", 2000, "Donate or sell if in good condition. Knives or similar sharp metal objects should be securely wrapped in cardboard and labeled "CAUTION: SHARP" before being recycled with metal, glass, plastic & cartons. Dangerous items such as razor blades and disposable razors should be discarded as garbage."
+89, "large appliance (mostly metal or rigid plastic no CFCs)", 6000, "Donate or sell if in good condition. Otherwise setout with other bulk metal or rigid plastic items on your recycling collection day. For safety reasons, remove doors before setting them out."
+90, "leaf and yard waste (do-it-yourself)", 4000, "Leaf and yard waste generated by homeowners can be set out for curbside collection if your home is in a neighborhood that receives DSNY organics collection or fall leaf collection."
+91, "leaf and yard waste (from hired landscaper)", 6000, "Yard waste generated by landscapers can't be set out for curbside collection or dispersed in or around the curb or street. Landscapers must dispose of yard waste they generate at a permitted composting facility."
+92, "license plates", 2000, "Most plates should be surrendered to NYS DMV. Plates that are replaced by custom plates, personalized plates, or Empire Gold plates should be defaced and recycled with metal, glass, plastic & cartons."
+93, "light bulb (incandescent or LED)", 6000, "Double bag for safety and discard as garbage on regular collection day(s)."
+94, "lighters", 6000, "These items are problematic to recycle, do not place in recycling bin. Discard as garbage on regular collection day(s)."
+95, "lighting fixtures/lamps (metal or rigid plastic)", 2000, "Donate or sell if in working condition. Otherwise, recycle with metal, glass, plastic & cartons; or with other bulk metal or rigid plastic items on your recycling collection day."
+96, "luggage/suit case", 6000, "Donate or sell if in good condition. Otherwise set out as bulk garbage on regular collection day(s)."
+97, "mail", 2000, "Remove your name from junk mail lists; shred for security. Recycle paper mail with mixed paper and cardboard (window envelopes are OK)."
+98, "mattress", 6000, "Must fully enclose within a sealed plastic bag (to prevent spread of bed bugs) and discard as bulk garbage on regular collection day(s). Bedding cannot be donated."
+99, "medical equipment (mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition. Otherwise set out next to your recycling container on your recycling collection day."
+100, "medical equipment (not mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition. Otherwise, discard as garbage on regular collection day(s)."
+101, "medical waste (household- other than sharps or medications)", 6000, "Use securely tied bags and discard as garbage on regular collection day(s)."
+102, "mercury (liquid)", 6000, "Do not discard; Liquid mercury can be taken to upcoming DSNY SAFE disposal events. Otherwise, contact an appropriate private hazardous/chemical waste company."
+103, "mercury thermometers and other mercury containing devices", 5000, "Illegal to discard in garbage; take to household special waste drop-off site or upcoming DSNY SAFE disposal event."
+104, "metal can", 2000, "Empty and rinse and recycle with metal, glass, plastic, & cartons."
+105, "microwave (mostly metal or rigid plastic)", 6000, "Donate or sell if in working condition. Otherwise set out next to your recycling container on your recycling collection day."
+106, "microwave (not mostly metal or rigid plastic)", 6000, "Donate or sell if in working condition. Check with retailers for take-back options. Otherwise, discard as garbage on regular collection day(s)."
+107, "mixed paper", 2000, "Recycle with mixed paper and cardboard. You don't need to remove staples. Tear or shred for privacy as needed. Soiled paper should be discarded as garbage."
+108, "motor oil", 5000, "Service stations that change oil must accept up to five gallons of used motor oil (including transmission fluid) per day, per person, at no charge. Motor oil is also accepted at household special waste drop-off sites and SAFE Disposal events. "
+109, "motor oil filter", 5000, "Check with service stations to see if they'll accept them, or take to household special waste drop-off site or upcoming DSNY SAFE disposal event."
+110, "musical instrument (mostly metal or rigid plastic)", 2000, "Donate or sell if in working condition. Otherwise recycle with metal, glass, plastic, & cartons; or set out as bulk metal or bulk plastic next to recycling container on your recycling day."
+111, "musical instrument (not mostly metal or rigid plastic)", 6000, "Donate or sell If in working condition. Otherwise discard as regular or bulk garbage on regular collection day(s)."
+112, "newspapers magazines and catalogs", 2000, "Opt out of unwanted catalogs. Recycle with mixed paper and cardboard."
+113, "office supplies (mostly metal or rigid plastic)", 2000, "Donate or sell if valuable and in good condition. Otherwise recycle with metal, glass, plastic & cartons."
+114, "office supplies (other than paper metal rigid plastic or electronics)", 6000, "Donate or sell if valuable and in good condition. Otherwise discard as garbage on regular collection day(s)."
+115, "office supplies (paper & cardboard)", 2000, "Donate or sell if valuable and in good condition. Otherwise recycle with mixed paper and cardboard."
+116, "other gas tanks (acetylene or oxygen or other)", 6000, "Do not attempt to relieve the pressure or remove the head, and do not discard in the garbage or recycling. Contents may be hazardous and pressurized tanks may explode when compressed in a truck. Exchange your old pressurized gas tank when purchasing a new one, or bring to a scrap metal dealer."
+117, "paint (latex) in metal or rigid plastic can or bucket", 5000, "For non-dried out latex (water-based/acrylic) paint, look for reuse options, or take to household special waste drop-off site or upcoming DSNY SAFE disposal events. To discard as garbage, remove lid and let paint dry, or use kitty litter, newspaper, or other absorbent material to soak up paint. If can is empty, recycle with metal, glass, plastic & cartons."
+118, "paint (latex) in non-metal or plastic can or bucket", 5000, "For non-dried out latex (water-based/acrylic) paint, look for reuse options, or take to household special waste drop-off site or upcoming DSNY SAFE disposal events. To discard as garbage, remove lid and let paint dry, or use kitty litter, newspaper, or other absorbent material to soak up paint. If can is empty, recycle with metal, glass, plastic & cartons."
+119, "paint (non-latex in metal or rigid plastic can or bucket)", 2000, "For non-dried out oil-based (non-latex) paint, look for reuse options. Paint can be taken to upcoming DSNY SAFE disposal events. Otherwise, to discard as garbage; remove lid and use kitty litter, newspaper, or other absorbent material to soak up paint. If can is empty, recycle with metal, glass, plastic & cartons."
+120, "paint (non-latex) in non-metal or plastic can or bucket", 6000, "For non-dried out oil-based (non-latex) paint, look for reuse options. Paint can be taken to upcoming DSNY SAFE disposal events. Otherwise, to discard as garbage, remove lid and use kitty litter, newspaper, or other absorbent material to soak up paint."
+119, "pens/markers", 6000, "These items are problematic to recycle, do not place in recycling bin. Discard as garbage on regular collection day(s)." 
+120, "personal hygiene items", 6000, "Discard as garbage on regular collection day(s)."
+121, "pesticides", 2000, "Use up instead of discarding. Pesticides can be taken to upcoming DSNY SAFE disposal events. Otherwise, small quantities of pesticides can be discarded at the curb. Dry out any liquids with kitty litter, newspaper, other absorbent material before discarding as garbage. Empty containers can be recycled as applicable."
+122, "pizza box", 2000, "Recycle with mixed paper and cardboard. Be sure to remove food scraps."
+123, "plastic bag", 6000, "Reuse at home; bring to local stores for recycling; do not place in home recycling bin; discard as garbage on regular collection day(s)."
+124, "plastic envelopes", 6000, "Discard as garbage on regular collection day(s). Only rigid plastics can be recycled with DSNY. Take-back programs may be available."
+125, "plastic flexible packaging", 6000, "Discard as garbage on regular collection day(s). Only rigid plastics can be recycled with DSNY. Take-back programs may be available."
+126, "plastic food wraps and wrappers", 6000, "Discard as garbage on regular collection day(s). Only rigid plastics can be recycled with DSNY. Take-back programs may be available."
+127, "plastic photographic film", 6000, "Discard as garbage on regular collection day(s). Only rigid plastics can be recycled with DSNY."
+128, "plastic rigid container (food and beverage)", 2000, "Empty & rinse. Recycle with metal, glass, plastic, & cartons. Discard all foam items."
+129, "plastic rigid container (household chemicals DANGER-corrosive)", 6000, "Do not pour down the drain. Use up cleaning products instead of discarding. Cleaning products can be taken to upcoming DSNY SAFE disposal events. Otherwise, dry out any remaining cleaning products with kitty litter, newspaper, or other absorbent material before discarding as garbage. If the container is labeled DANGER - corrosive, double bag these containers (empty or dried out) and mark the bag \"DANGER - not for recycling\" before putting in the garbage."
+130, "plastic rigid container (non food or chemical)", 2000, "Empty & rinse. Recycle with metal, glass, plastic, & cartons."
+131, "plastic rigid packaging", 2000, "Empty & rinse. Recycle with metal, glass, plastic, & cartons."
+132, "plastic rings", 6000, "Discard as garbage on your regular collection day(s). Cut rings before discarding to prevent injury to birds and aquatic animals. Rigid plastics are the only plastics that can be recycled with DSNY."
+133, "plastic shipping packaging", 6000, "Recycle through take-back program, or discard as garbage. Rigid plastics are the only plastics that can be recycled with DSNY."
+134, "plastic wrap/plastic food bags", 6000, "Discard as garbage on your regular collection day(s). Rigid plastics are the only plastics that can be recycled with DSNY."
+135, "plumbing (metal)", 2000, "Recycle with metal, glass, plastic & cartons, or set out next to recycling container on your recycling day."
+136, "plumbing (non-metal)", 6000, "These items are problematic to recycle; do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+137, "print cartridges", 6000, "Take back to some retailers or manufacturers; donate to charitable fundraisers; Otherwise Discard as garbage on your regular collection day(s)."
+138, "propane tanks", 6000, "Do not discard in the garbage or recycling. Propane is highly flammable. Exchange your empty propane tank for a full one at any local propane tank dealer. If you are not exchanging your tank, ask the dealer to dispose of it properly, or bring it to a scrap metal dealer. Can also be taken to upcoming DSNY SAFE Disposal Events."
+139, "protective packaging (foam)", 6000, "These items cannot be recycled, do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+140, "protective packaging (paper or cardboard)", 2000, "Recycle with mixed paper and cardboard."
+141, "protective packaging (rigid plastic)", 2000, "Recycle with metal, glass, plastic & cartons. Discard foam items as garbage."
+142, "shredded paper", 2000, "Recycle with mixed paper and cardboard."
+143, "single-use food service items (foam)", 6000, "These items cannot be recycled, do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+144, "single-use food service items (not rigid plastic or paper)", 6000, "These items cannot be recycled, do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+145, "single-use food service items (paper or cardboard)", 2000, "If unused or not soiled, recycle with mixed paper and cardboard. Empty drink cups can be recycled. Otherwise, garbage on your regular collection day(s)."
+146, "single-use food service items (rigid plastic - not foam)", 2000, "Recycle with metal, glass, plastic & cartons. Discard foam items as garbage."
+147, "small appliance (mostly metal or rigid plastic)", 2000, "Donate or sell if in working condition. Otherwise, recycle with metal, glass, plastic & cartons."
+148, "small appliance (not mostly metal or rigid plastic)", 6000, "Donate or sell if in working condition. Otherwise, discard as bulk or regular garbage on your regular collection day(s)."
+149, "small appliance (with rechargeable batteries)", 6000, "Donate or sell if in good condition. Otherwise, bring item to any store that sells this product so rechargeable battery can be properly discarded. NY State's Rechargeable Battery mandates that stores that sell rechargeable batteries (or products containing rechargeable batteries) must take back up to ten batteries of the same shape and size as they sell, free of charge."
+150, "smoke detectors (optical) or carbon monoxide detectors", 6000, "Optical or photoelectric smoke detectors and carbon monoxide detectors do not contain any dangerous or radioactive material and require no special handling. Place these items in the regular garbage. If you are unsure about the type of smoke detector, check the label."
+151, "smoke or carbon monoxide detectors (ionization)", 6000, "Ionization smoke or carbon monoxide detectors contain tiny amounts of radioactive material (although there is no danger to their use). Return used smoke detectors to a manufacturer or take to an upcoming SAFE disposal event. Otherwise place in your garbage. If you are unsure about the type of smoke detector or carbon monoxide detector, check the label."
+152, "sofa bed", 6000, "Must fully enclose mattress within a sealed plastic bag (to prevent spread of bed bugs). Discard sofa and enclosed mattress as bulk garbage on your regular collection day(s). (Bedding cannot be donated.)"
+153, "soiled paper", 3000, "These items are problematic to recycle; do not place in recycling bin. Discard as garbage on your regular collection day(s). Paper towels, napkins, and paper plates can be composted at home or brought to a food-scrap drop-off site."
+154, "sponges", 6000, "These items are problematic to recycle; do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+155, "sport equipment (mostly metal or rigid plastic)", 2000, "Donate or sell if in working condition. Otherwise recycle with metal, glass, plastic, & cartons."
+156, "sport equipment (not mostly metal or rigid plastic)", 6000, "Donate or sell if in working condition. Otherwise discard as bulk or regular garbage on your regular collection day(s)."
+157, "tablets and e-readers", 6000, "Donate or sell if in working condition. Otherwise recycle through a legally-mandated free take-back program. Can be taken to upcoming DSNY SAFE disposal events. It is illegal to place electronic waste in the garbage."
+158, "telephone (non-mobile)", 2000, "Donate or sell if in working condition. Check with retailers for take-back options. Otherwise, recycle with metal, glass, plastic, & cartons."
+159, "telephone book", 2000, "Request to opt out of phone books; recycle unwanted phone books with mixed paper and cardboard."
+160, "thermostats (mercury)", 5000, "Illegal to discard in garbage. Ask your contractor to recycle, look for retail or wholesale drop-offs, or take to household special waste drop-off site or upcoming DSNY SAFE disposal event."
+161, "tire (auto)", 6000, "When buying new tires, bring back your old ones to be recycled. NYC residents can drop off up to four passenger car tires at a DSNY garage during certain times."
+162, "tire (bicycle)", 6000, "Discard as garbage on your regular collection day(s)."
+163, "toothbrush (rigid plastic)", 2000, "Recycle with metal, glass, plastic & cartons."
+164, "toothbrush (electric)", 6000, "Bring item to any store that sells this product so rechargeable battery can be properly discarded. NY State's Rechargeable Battery mandates that stores that sell rechargeable batteries (or products containing rechargeable batteries) must take back up to ten batteries of the same shape and size as they sell, free of charge."
+165, "toy (mostly metal or rigid plastic)", 2000, "Donate or sell if in good condition (certain restrictions apply). Otherwise recycle with metal, glass, plastic & cartons. Be sure to remove batteries before placing in recycling bin."
+166, "toy (not mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition (certain restrictions apply). Otherwise discard as garbage on your regular collection day(s)."
+167, "TVs and peripherals", 6000, "Donate or sell if in working condition. Otherwise recycle through a legally-mandated free take-back program for TVs, VCRs, DVRs, DVD/Blu-Ray players, cable or satellite receivers, and video game consoles. Can be taken to upcoming DSNY SAFE disposal events. It is illegal to place electronic waste in the garbage."
+168, "umbrellas", 6000, "These items are problematic to recycle, do not place in recycling bin. Discard as garbage on your regular collection day(s)."
+169, "unwanted medication", 6000, "Participate in periodic collection events, or use mailback envelope sold at many pharmacies. Otherwise, most should be mixed with a material like coffee grounds or kitty litter, put in nondescript container marked "not recyclable - disposal only," and discarded as regular garbage. If instructed to do so on the label, certain medications should be flushed for safety purposes."
+170, "vehicle", 6000, "Donate vehicles; report abandoned vehicles."
+171, "wagon/cart (mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition. Otherwise set out next to your recycling container on your recycling collection day."
+172, "wagon/cart (not mostly metal or rigid plastic)", 6000, "Donate or sell if in good condition. Otherwise, discard as garbage on your regular collection day(s)."
+173, "water bottle", 2000, "Empty & rinse. Recycle with metal, glass, plastic & cartons, or return to store for refund."
+174, "wax or plastic coated paper", 2000, "These items are problematic to recycle; do not place in recycling bin. Discard as garbage on your regular collection day(s). Lightly waxed or plastic-coated paper, such as magazines or cereal and toothpaste boxes can be recycled."
+175, "wine bottle", 2000, "Empty & rinse. Recycle with metal, glass, plastic, & cartons."
+176, "wine cooler", 2000, "Empty & rinse. Recycle with metal, glass, plastic & cartons, or return to store for refund."
+177, "wreath", 6000, "Because wreaths contain wire, they can't be composted and should be discarded as bulk garbage on your regular collection day(s)."
