@@ -549,120 +549,87 @@ dSITES,borough,siteType,name,Address,xCor,yCor,matAcc,days,hours,months,req,orga
 2000,Staten Island,Outdoor,Willowbrook Park,Willowbrook Park,40.603828,-74.16125,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 2000,Staten Island,Outdoor,Wolfe's Pond,Wolfe's Pond,40.517368,-74.190913,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
 2000,Staten Island,Outdoor,Wolfe's Pond,Wolfe's Pond,40.518652,-74.18731,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-Queens,Astoria Arrow Community Supported Agriculture,"35-30 35th St
-Astoria, NY 11106&nbsp;
-(40.75616679371618, -73.92576690882862)",food scraps,Thursday,4:30 - 7:30 PM,(May 31 to Nov 29)(skip November 22),food scrap drop-off when CSA is in operation,NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,462 Halsey Community Garden,"462 Halsey Street
-Brooklyn, NY 11223&nbsp;&nbsp;&nbsp;
-(40.68338860098805, -73.9357346332942)",food scraps,whenever the garden is open,whenever the garden is open,whenever the garden is open,check website regularly for drop off schedule updates,462 Halsey Community Garden  ,462 Halsey Community Garden  ,http://462halsey.com/composting/
-Manhattan,57th Street Greenmarket,"57th St &amp; 9th Ave
-New York, NY 10019&nbsp;&nbsp;
-(40.76489999963542, -73.98420000022969)",food scraps,Saturdays,8 am – 1 pm,"(through Dec 22, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Union Square Greenmarket,"39 Union Square West
-New York, NY 10003&nbsp;
-(40.73692524139233, -73.99048535843798)",food scraps,"Mondays, Wednesdays, Fridays, Saturdays",8 am – 5 pm,Year Round,households only; no businesses or other commercial generators may drop off organic waste,Lower East Side Ecology Center ,Lower East Side Ecology Center ,http://www.lesecologycenter.org/
-Brooklyn,Grand Army Plaza Greenmarket,"Prospect Park West &amp; Plaza St West
-Brooklyn, NY 11238&nbsp;
-(40.679380000286926, -73.9635700003551)",food scraps,Saturdays,8 am – 3:30 pm,Year Round,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,82nd Street Greenmarket,"East 82nd St &amp; York Ave
-New York, NY 10028&nbsp;&nbsp;
-(40.77601999982329, -73.95274999961265)",food scraps,Saturdays,9 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Queens,Sunnyside Greenmarket,"43rd St &amp; Skillman Ave
-Sunnyside, NY 11104&nbsp;
-(40.743759999624444, -73.9216400002856)",food scraps,Saturdays,9 am – 12 pm,,food scrap drop off only when farmers market is in operation,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Carrol Gardens Greenmarket,"Carroll St, b/t Smith &amp; Court
-Brooklyn, NY 11231&nbsp;
-(40.680220000352904, -74.0006699998205)",food scraps,Sundays,8 am – 1 pm,,check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Red Hook Community Farm,"580 Columbia St b/t Halleck St &amp; Sigourney St
-Brooklyn, NY 11231&nbsp;&nbsp;
-(40.680220000352904, -74.0006699998205)",food scraps,Saturdays,10 am to 3 pm ,(April - November) Check the calendar on home page for winter  “community composting” times.,"bring compostables to ""compost row"" on the southwest edge of the farm and follow easy self-help composting instructions",Red Hook Community Farm ,Red Hook Community Farm ,http://www.added-value.org/
-Brooklyn,McCarren Park Greenmarket,"229 North 12th St
-Brooklyn, NY 11211&nbsp;
-(40.71978151369627, -73.95335566994004)",food scraps,Saturdays,8 am – 2 pm,Year Round,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Staten Island,St. George Greenmarket,"St. Mark Place &amp; Hyatt St.
-Staten Island, NY 10301&nbsp;&nbsp;
-(40.631469999640956, -74.09150999988645)",food scraps,Saturdays,8 am – 1:00 pm,(May 12-Nov 17 2012),check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Scrap Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,North Brooklyn Compost Project @ McCarren Park,"229 North 12th St
-Brooklyn, NY 11211&nbsp;
-(40.71978151369627, -73.95335566994004)",food scraps,Saturdays,9 am – 12 pm,Year Round,must assist with maintenance of compost site,North Brooklyn Compost Project ,North Brooklyn Compost Project ,http://northbrooklyncompostproject.wordpress.com/
-Queens,Queens County Farm Museum,"73-50 Little Neck Parkway
-Floral Park, NY 11004-1129&nbsp;
-(40.748013882013595, -73.71942969880695)",food scraps,Monday - Sunday,10 am – 4:30 pm,,"food scrap drop off only when farm stand in operation; look for the bin and the ""What to Compost"" sign",Queens County Farm Museum ,Queens County Farm Museum ,http://www.queensfarm.org/
-Brooklyn,Compost For Brooklyn,"Newkirk Ave &amp; East 8th St
-Brooklyn, NY 11230&nbsp;
-(40.62294000018102, -73.96349999982499)","food scraps, leaves, garden trimmings","Saturdays, Sundays, Thursdays",Sat: 10 am– 1 pm; Sun  1 – 4 pm; Thur  4:30 to 6:30 PM,Year Round,check website regularly for drop off schedule updates,Compost For Brooklyn ,Compost For Brooklyn ,http://compostforbrooklyn.org/
-Staten Island,Staten Island Mall Greenmarket,"2655 Richmond Ave (Parking lot)&nbsp;
-Staten Island, NY 10315&nbsp;
-(40.64244000010609, -74.07527999967209)",food scraps,Saturdays,9 am – 1 pm,(June 23-Dec 22 2012),check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Scrap Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Governor's Island Public Food Scrap Drop-Off Sites,"Governors Island
-New York, NY 10004&nbsp;&nbsp;
-(40.70139752462481, -74.0116374125671)",food scraps,whenever Governors Island is open to the public,whenever Governors Island is open to the public,,check Trust for Governors Island   website for specific food scrap drop-off sites on Governors Island and schedule updates,NYC Compost Project Local Organics Recovery Program ,Earth Matter NY  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,79th Street Greenmarket,"79th St &amp; Columbus Ave
-New York, NY 10024&nbsp;&nbsp;
-(40.786299999945186, -73.9752700003101)",food scraps,Sundays,9 am – 1:00 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Bay Ridge Greenmarket,"3rd Ave &amp; 95th Street
-Brooklyn, NY 11209&nbsp;&nbsp;&nbsp;
-(40.62450999973686, -74.03007000033011)",food scraps,Saturdays,8 am – 1:00 pm,"May 12-Nov 17, 2012",check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Lower East Side Ecology Center Community Garden,"North side of East 7th St between Ave B &amp; Ave C
-New York, NY 10009&nbsp;
-(40.72638999989874, -73.9809699996656)",food scraps,Sundays,8 am – 5 pm,,households only; no businesses or other commercial generators may drop off organic waste,Lower East Side Ecology Center ,Lower East Side Ecology Center ,http://www.lesecologycenter.org/
-Manhattan,Tucker Square Greenmarket,"66th St. &amp; Columbus Ave.
-New York, NY 10023&nbsp;&nbsp;
-(40.77696000000418, -73.98186000023867)",food scraps,Saturdays,8 am – 1:00 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Tribeca Greenmarket,"Greenwich St &amp Chambers St
-New York, NY 10007&nbsp;
-(40.71370000015503, -74.00789999958516)",food scraps,Saturdays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Queens,Long Island City Community Garden,"49th Ave between Vernon Blvd and 5th St
-Long Island City, NY 11101&nbsp;
-(40.74828999988375, -73.94114000021068)",food scraps,email licgardencompost@gmail.com for info,,Year Round,food scrap drop off during designated collection times only; email licgardencompost@gmail.com for info,Long Island City Community Garden,Long Island City Community Garden,
-Brooklyn,Prospect Heights Community Farm,"252 St. Marks Ave
-Brooklyn, NY 11238&nbsp;
-(40.67829843830225, -73.96765157211405)",food scraps,check garden for open hours,check garden for open hours,Year Round,garden membership or drop-off during garden's open hours,Prospect Heights Community Farm ,Prospect Heights Community Farm ,http://www.phcfarm.com/welcome/
-Queens,Jackson Heights Greenmarket,"34th Ave at 77th St
-Jackson Heights, NY 11372&nbsp;
-(40.752350000052616, -73.88213999986095)",food scraps,Sundays,9 am – 12 pm,Year round,food scrap drop off when farmers market is in operation,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Tompkins Square Greenmarket,"East 7th St. &amp; Ave. A
-New York, NY 10009&nbsp;&nbsp;
-(40.72638999989874, -73.9809699996656)",food scraps,Sundays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Windsor Terrace - PS 154 Greenmarket @PS 154,"11th Ave b/t Sherman &amp; Windsor Pl.
-Brooklyn, NY 11215&nbsp;&nbsp;
-(40.66783000005461, -73.9829100000963)",food scraps,Sundays,8 am – 1:00 pm,"(July 8-Nov 18, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,New Amsterdam Market ,"South Street b/t Beekman St. &amp; Peck Slip
-New York, NY 10038&nbsp;&nbsp;
-(40.70904999975784, -74.00542999989443)",food scraps,Sundays,8 am – 5 pm,Year Round,households only; no businesses or other commercial generators may drop off organic waste,NYC Compost Project Local Organics Recovery Program ,Earth Matter NY  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Sherman Creek Center ,"3725 10th Ave (between Dyckman St &amp; 201st St)
-New York, NY 10034&nbsp;
-(40.86663999963645, -73.92150000012475)","food scraps, leaves, garden trimmings",Monday – Friday,8 am – 4 pm,Year Round,"Drop off food scraps in the green metal containers within the large operations yard on the east side of the street. Do not include any metal, plastic, meat, oils, cooked foods, or highly invasive weeds. Contact jsmith@nyrp.org with any questions.",New York Restoration Project ,New York Restoration Project ,http://www.nyrp.org/
-Manhattan,92nd Street Greenmarket,"92nd St &amp; 1st Ave
-New York, NY 10128&nbsp;&nbsp;
-(40.7813999997104, -73.95056999980551)",food scraps,Sundays,9 am – 1 pm ,"(June 17-Dec 23, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Brooklyn Borough Hall Greenmarket,"Court St &amp; Montague St
-Brooklyn, NY 11201&nbsp;
-(40.69373999970139, -73.99130999985647)",food scraps,Saturdays,8 am – 4 pm,Year Round,check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Queens,Socrates Sculpture Park Greenmarket,"32-01 Vernon Boulevard
-Long Island City, NY 11106&nbsp;
-(40.76764885342166, -73.93609480317753)",food scraps,Saturdays,9 am – 12 pm,,food scrap drop off only when farmers market is in operation,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Queens,Two Coves Community Garden,"11-01 30th Avenue
-Astoria, NY 11104&nbsp;&nbsp;
-(40.77205438915846, -73.93211351051998)",food scraps,garden open hours,,,"for most current information, please email wqnscompost@gmail.com",NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Abingdon Square Greenmarket,"West 12 St &amp; 8th Ave
-New York, NY 10014&nbsp;
-(40.733929999569966, -74.00501000031113)",food scraps,Saturdays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Sunset Park Greenmarket,"4th Avenue b/t 59th &amp; 60th Street
-Brooklyn, NY 11220&nbsp;&nbsp;
-(40.64135999976435, -74.01363999988592)",food scraps,Saturdays,8 am – 1 pm,"(June 23-Nov 17, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Queens,Steinway Library,"21-45 31 Street
-Astoria, NY 11105&nbsp;
-(40.77617000044535, -73.90902999973457)",food scraps,Tuesdays,4 pm – 5 pm,,"for most current information, please email wqnscompost@gmail.com",Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://bignyc.org/western-queens-compost-initiative
-Manhattan,Columbia University Greenmarket,"Broadway b/t 114 &amp; 115 St
-New York, NY 10025&nbsp;&nbsp;&nbsp;
-(40.798120000038125, -73.96729000013323)",food scraps,Sundays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Cortelyou Greenmarket,"Courtelyou Rd b/t Argyle &amp; Rugby Rd
-Brooklyn, NY 11226&nbsp;&nbsp;
-(40.64728000027196, -73.9573199999179)","food scraps, leaves, garden trimmings",Sundays,8 am – 1 pm,,check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Brooklyn,Fort Greene Greenmarket ,"Washington Park b/t Dekalb Ave &amp; Willoughby Ave
-Brooklyn, NY 11201&nbsp;
-(40.69373999970139, -73.99130999985647)",food scraps,Saturdays,8 am – 3 pm,Year Round,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
-Manhattan,Inwood Greenmarket,"Isham St between Seaman Ave &amp; Cooper St
-New York, NY 10034&nbsp;
-(40.86663999963645, -73.92150000012475)",food scraps,Saturdays,8 am – 12 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,New York Restoration Project ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Queens,NULL,Astoria Arrow Community Supported Agriculture,"35-30 35th St
+Astoria, NY 11106",40.75616679,-73.92576691,food scraps,Thursday,4:30 - 7:30 PM,(May 31 to Nov 29)(skip November 22),food scrap drop-off when CSA is in operation,NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,462 Halsey Community Garden,"462 Halsey Street
+Brooklyn, NY 11223",40.6833886,-73.93573463,food scraps,whenever the garden is open,whenever the garden is open,whenever the garden is open,check website regularly for drop off schedule updates,462 Halsey Community Garden  ,462 Halsey Community Garden  ,http://462halsey.com/composting/
+3000,Manhattan,NULL,57th Street Greenmarket,"57th St & 9th Ave
+New York, NY 10019",40.7649,-73.9842,food scraps,Saturdays,8 am – 1 pm,"(through Dec 22, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Union Square Greenmarket,"39 Union Square West
+New York, NY 10003",40.73692524,-73.99048536,food scraps,"Mondays, Wednesdays, Fridays, Saturdays",8 am – 5 pm,Year Round,households only; no businesses or other commercial generators may drop off organic waste,Lower East Side Ecology Center ,Lower East Side Ecology Center ,http://www.lesecologycenter.org/
+3000,Brooklyn,NULL,Grand Army Plaza Greenmarket,"Prospect Park West & Plaza St West
+Brooklyn, NY 11238",40.67938,-73.96357,food scraps,Saturdays,8 am – 3:30 pm,Year Round,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,82nd Street Greenmarket,"East 82nd St & York Ave
+New York, NY 10028",40.77602,-73.95275,food scraps,Saturdays,9 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Queens,NULL,Sunnyside Greenmarket,"43rd St & Skillman Ave
+Sunnyside, NY 11104",40.74376,-73.92164,food scraps,Saturdays,9 am – 12 pm,,food scrap drop off only when farmers market is in operation,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Carrol Gardens Greenmarket,"Carroll St, b/t Smith & Court
+Brooklyn, NY 11231",40.68022,-74.00067,food scraps,Sundays,8 am – 1 pm,,check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Red Hook Community Farm,"580 Columbia St b/t Halleck St & Sigourney St
+Brooklyn, NY 11231",40.68022,-74.00067,food scraps,Saturdays,10 am to 3 pm,(April - November) Check the calendar on home page for winter  “community composting” times.,"bring compostables to ""compost row"" on the southwest edge of the farm and follow easy self-help composting instructions",Red Hook Community Farm ,Red Hook Community Farm ,http://www.added-value.org/
+3000,Brooklyn,NULL,McCarren Park Greenmarket,"229 North 12th St
+Brooklyn, NY 11211",40.71978151,-73.95335567,food scraps,Saturdays,8 am – 2 pm,Year Round,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Staten Island,NULL,St. George Greenmarket,"St. Mark Place & Hyatt St.
+Staten Island, NY 10301",40.63147,-74.09151,food scraps,Saturdays,8 am – 1:00 pm,(May 12-Nov 17 2012),check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Scrap Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,North Brooklyn Compost Project @ McCarren Park,"229 North 12th St
+Brooklyn, NY 11211",40.71978151,-73.95335567,food scraps,Saturdays,9 am – 12 pm,Year Round,must assist with maintenance of compost site,North Brooklyn Compost Project ,North Brooklyn Compost Project ,http://northbrooklyncompostproject.wordpress.com/
+3000,Queens,NULL,Queens County Farm Museum,"73-50 Little Neck Parkway
+Floral Park, NY 11004-1129",40.74801388,-73.7194297,food scraps,Monday - Sunday,10 am – 4:30 pm,,"food scrap drop off only when farm stand in operation; look for the bin and the ""What to Compost"" sign",Queens County Farm Museum ,Queens County Farm Museum ,http://www.queensfarm.org/
+3000,Brooklyn,NULL,Compost For Brooklyn,"Newkirk Ave & East 8th St
+Brooklyn, NY 11230",40.62294,-73.9635,"food scraps, leaves, garden trimmings","Saturdays, Sundays, Thursdays",Sat: 10 am– 1 pm; Sun  1 – 4 pm; Thur  4:30 to 6:30 PM,Year Round,check website regularly for drop off schedule updates,Compost For Brooklyn ,Compost For Brooklyn ,http://compostforbrooklyn.org/
+4000,Brooklyn,NULL,Compost For Brooklyn,"Newkirk Ave & East 8th St
+Brooklyn, NY 11230",40.62294,-73.9635,"food scraps, leaves, garden trimmings","Saturdays, Sundays, Thursdays",Sat: 10 am– 1 pm; Sun  1 – 4 pm; Thur  4:30 to 6:30 PM,Year Round,check website regularly for drop off schedule updates,Compost For Brooklyn ,Compost For Brooklyn ,http://compostforbrooklyn.org/
+3000,Staten Island,NULL,Staten Island Mall Greenmarket,"2655 Richmond Ave (Parking lot) 
+Staten Island, NY 10315",40.64244,-74.07528,food scraps,Saturdays,9 am – 1 pm,(June 23-Dec 22 2012),check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Scrap Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Governor's Island Public Food Scrap Drop-Off Sites,"Governors Island
+New York, NY 10004",40.70139752,-74.01163741,food scraps,whenever Governors Island is open to the public,whenever Governors Island is open to the public,,check Trust for Governors Island   website for specific food scrap drop-off sites on Governors Island and schedule updates,NYC Compost Project Local Organics Recovery Program ,Earth Matter NY  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,79th Street Greenmarket,"79th St & Columbus Ave
+New York, NY 10024",40.7863,-73.97527,food scraps,Sundays,9 am – 1:00 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Bay Ridge Greenmarket,"3rd Ave & 95th Street
+Brooklyn, NY 11209",40.62451,-74.03007,food scraps,Saturdays,8 am – 1:00 pm,"May 12-Nov 17, 2012",check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Lower East Side Ecology Center Community Garden,"North side of East 7th St between Ave B & Ave C
+New York, NY 10009",40.72639,-73.98097,food scraps,Sundays,8 am – 5 pm,,households only; no businesses or other commercial generators may drop off organic waste,Lower East Side Ecology Center ,Lower East Side Ecology Center ,http://www.lesecologycenter.org/
+3000,Manhattan,NULL,Tucker Square Greenmarket,"66th St. & Columbus Ave.
+New York, NY 10023",40.77696,-73.98186,food scraps,Saturdays,8 am – 1:00 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Tribeca Greenmarket,"Greenwich St & Chambers St
+New York, NY 10007",40.7137,-74.0079,food scraps,Saturdays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Queens,NULL,Long Island City Community Garden,"49th Ave between Vernon Blvd and 5th St
+Long Island City, NY 11101",40.74829,-73.94114,food scraps,email licgardencompost@gmail.com for info,,Year Round,food scrap drop off during designated collection times only; email licgardencompost@gmail.com for info,Long Island City Community Garden,Long Island City Community Garden,
+3000,Brooklyn,NULL,Prospect Heights Community Farm,"252 St. Marks Ave
+Brooklyn, NY 11238",40.67829844,-73.96765157,food scraps,check garden for open hours,check garden for open hours,Year Round,garden membership or drop-off during garden's open hours,Prospect Heights Community Farm ,Prospect Heights Community Farm ,http://www.phcfarm.com/welcome/
+3000,Queens,NULL,Jackson Heights Greenmarket,"34th Ave at 77th St
+Jackson Heights, NY 11372",40.75235,-73.88214,food scraps,Sundays,9 am – 12 pm,Year round,food scrap drop off when farmers market is in operation,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Tompkins Square Greenmarket,"East 7th St. & Ave. A
+New York, NY 10009",40.72639,-73.98097,food scraps,Sundays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Windsor Terrace - PS 154 Greenmarket @PS 154,"11th Ave b/t Sherman & Windsor Pl.
+Brooklyn, NY 11215",40.66783,-73.98291,food scraps,Sundays,8 am – 1:00 pm,"(July 8-Nov 18, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,New Amsterdam Market ,"South Street b/t Beekman St. & Peck Slip
+New York, NY 10038",40.70905,-74.00543,food scraps,Sundays,8 am – 5 pm,Year Round,households only; no businesses or other commercial generators may drop off organic waste,NYC Compost Project Local Organics Recovery Program ,Earth Matter NY  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Sherman Creek Center ,"3725 10th Ave (between Dyckman St & 201st St)
+New York, NY 10034",40.86664,-73.9215,"food scraps, leaves, garden trimmings",Monday – Friday,8 am – 4 pm,Year Round,"Drop off food scraps in the green metal containers within the large operations yard on the east side of the street. Do not include any metal, plastic, meat, oils, cooked foods, or highly invasive weeds. Contact jsmith@nyrp.org with any questions.",New York Restoration Project ,New York Restoration Project ,http://www.nyrp.org/
+4000,Manhattan,NULL,Sherman Creek Center ,"3725 10th Ave (between Dyckman St & 201st St)
+New York, NY 10034",40.86664,-73.9215,"food scraps, leaves, garden trimmings",Monday – Friday,8 am – 4 pm,Year Round,"Drop off food scraps in the green metal containers within the large operations yard on the east side of the street. Do not include any metal, plastic, meat, oils, cooked foods, or highly invasive weeds. Contact jsmith@nyrp.org with any questions.",New York Restoration Project ,New York Restoration Project ,http://www.nyrp.org/
+3000,Manhattan,NULL,92nd Street Greenmarket,"92nd St & 1st Ave
+New York, NY 10128",40.7814,-73.95057,food scraps,Sundays,9 am – 1 pm,"(June 17-Dec 23, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Brooklyn Borough Hall Greenmarket,"Court St & Montague St
+Brooklyn, NY 11201",40.69374,-73.99131,food scraps,Saturdays,8 am – 4 pm,Year Round,check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Queens,NULL,Socrates Sculpture Park Greenmarket,"32-01 Vernon Boulevard
+Long Island City, NY 11106",40.76764885,-73.9360948,food scraps,Saturdays,9 am – 12 pm,,food scrap drop off only when farmers market is in operation,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Queens,NULL,Two Coves Community Garden,"11-01 30th Avenue
+Astoria, NY 11104",40.77205439,-73.93211351,food scraps,garden open hours,,,"for most current information, please email wqnscompost@gmail.com",NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Abingdon Square Greenmarket,"West 12 St & 8th Ave
+New York, NY 10014",40.73393,-74.00501,food scraps,Saturdays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Sunset Park Greenmarket,"4th Avenue b/t 59th & 60th Street
+Brooklyn, NY 11220",40.64136,-74.01364,food scraps,Saturdays,8 am – 1 pm,"(June 23-Nov 17, 2012)",check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Queens,NULL,Steinway Library,"21-45 31 Street
+Astoria, NY 11105",40.77617,-73.90903,food scraps,Tuesdays,4 pm – 5 pm,,"for most current information, please email wqnscompost@gmail.com",Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,Western Queens Compost Initiative  through the NYC Compost Project Local Organics Recovery Program ,http://bignyc.org/western-queens-compost-initiative
+3000,Manhattan,NULL,Columbia University Greenmarket,"Broadway b/t 114 & 115 St
+New York, NY 10025",40.79812,-73.96729,food scraps,Sundays,8 am – 1 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Cortelyou Greenmarket,"Courtelyou Rd b/t Argyle & Rugby Rd
+Brooklyn, NY 11226",40.64728,-73.95732,"food scraps, leaves, garden trimmings",Sundays,8 am – 1 pm,,check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+4000,Brooklyn,NULL,Cortelyou Greenmarket,"Courtelyou Rd b/t Argyle & Rugby Rd
+Brooklyn, NY 11226",40.64728,-73.95732,"food scraps, leaves, garden trimmings",Sundays,8 am – 1 pm,,check website regularly for drop off schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,NYC Department of Sanitation,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Brooklyn,NULL,Fort Greene Greenmarket ,"Washington Park b/t Dekalb Ave & Willoughby Ave
+Brooklyn, NY 11201",40.69374,-73.99131,food scraps,Saturdays,8 am – 3 pm,Year Round,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,GrowNYC community partners,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
+3000,Manhattan,NULL,Inwood Greenmarket,"Isham St between Seaman Ave & Cooper St
+New York, NY 10034",40.86664,-73.9215,food scraps,Saturdays,8 am – 12 pm,,check website for specific food scrap drop-off requirements and schedule updates,DSNY & GrowNYC Food Waste Drop-Off Program ,New York Restoration Project ,http://www.nyc.gov/html/nycwasteless/html/compost/compostproj_orp_program.shtml
