@@ -5,3 +5,12 @@
     </ion-title>
   </ion-navbar>
 </ion-header>
+
+<ion-content padding>
+  <div *ngIf="results">
+    <p>{{results.text}}</p>
+    <p>{{results.format}}</p>
+    <p>{{results.cancelled}}</p>
+  </div>
+  <button class="buttonbar" (click)="scanBarcode()">Scan Barcode</button>
+</ion-content>

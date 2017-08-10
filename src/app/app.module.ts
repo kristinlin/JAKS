@@ -8,9 +8,14 @@ import { BarcodePage } from '../pages/barcode/barcode';
 import { HomePage } from '../pages/home/home';
 import { SearchPage} from '../pages/search/search';
 import { TabsPage } from '../pages/tabs/tabs';
+import { ItemPage} from '../pages/item/item';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+
+import {BarcodeScanner} from '@ionic-native/barcode-scanner';
+import { BackandService } from '@backand/angular2-sdk';
+import { HttpModule } from '@angular/http';
 
 @NgModule({
   declarations: [
@@ -19,25 +24,35 @@ import { SplashScreen } from '@ionic-native/splash-screen';
     BarcodePage,
     HomePage,
     SearchPage,
+    ItemPage,
     TabsPage
   ],
   imports: [
     BrowserModule,
+    HttpModule,
     IonicModule.forRoot(MyApp)
   ],
-  bootstrap: [IonicApp],
+  bootstrap: [
+    IonicApp,
+  ],
   entryComponents: [
     MyApp,
     IdentifierPage,
     BarcodePage,
     HomePage,
     SearchPage,
+    ItemPage,
     TabsPage
   ],
   providers: [
     StatusBar,
     SplashScreen,
+    BarcodeScanner,
+    BackandService,
     {provide: ErrorHandler, useClass: IonicErrorHandler}
   ]
 })
+
+
+
 export class AppModule {}
