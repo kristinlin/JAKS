@@ -1,14 +1,14 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { ItemPage } from '../item/item';
-import { Http } from '@angular/http';
-import 'rxjs/add/operator/map';
-
+import { BackandService } from '@backand/angular2-sdk';
 
 @Component({
   selector: 'page-search',
   templateUrl: 'search.html'
 })
+
+
 export class SearchPage {
 
   searchQuery: string = '';
@@ -16,12 +16,8 @@ export class SearchPage {
 
   posts: any;
 
-  constructor(public navCtrl: NavController, public http: Http) {
+  constructor(public navCtrl: NavController,private backand: BackandService) {
     this.initializeItems();
-    this.http.get('https://api.backand.com/1/objects/categories').map(res => res.json()).subscribe(data => {
-      this.posts = data.data.children;
-      console.log(this.posts);
-    });
   }
 
   itemtemp() {
@@ -29,7 +25,9 @@ export class SearchPage {
   }
 
   initializeItems() {
-    this.items = [
+  
+  this.items = 
+    [
     //  this.http.get(3-ring binders),
       '3-ring binders',
       'aluminum',
@@ -208,6 +206,7 @@ export class SearchPage {
       'wine cooler',
       'wreath',
     ];
+
   }
 
   getItems(ev: any) {
