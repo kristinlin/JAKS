@@ -10,7 +10,7 @@
 <ion-searchbar (ionInput)="getItems($event)"></ion-searchbar>
 <ion-list>
   <ion-item *ngFor="let item of items">
-    <button (click)="itemtemp()" class="buttonsch">
+    <button (click)="itemtemp(item)" class="buttonsch">
       {{ item }}
     </button>
   </ion-item>

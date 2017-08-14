@@ -24,8 +24,8 @@ export class SearchPage {
   //  });
   }
 
-  itemtemp() {
-    this.navCtrl.push(ItemPage);
+  itemtemp(i : string) {
+    this.navCtrl.push(ItemPage, {title: i});
   }
 
   initializeItems() {
