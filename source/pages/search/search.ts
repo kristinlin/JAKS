@@ -1,8 +1,8 @@
 import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { ItemPage } from '../item/item';
-import { Http } from '@angular/http';
-import 'rxjs/add/operator/map';
+//import { Http } from '@angular/http';
+//import 'rxjs/add/operator/map';
 
 
 @Component({
