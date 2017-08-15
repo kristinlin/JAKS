@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { NavController } from 'ionic-angular';
+import { NavController, NavParams } from 'ionic-angular';
 import { ItemPage } from '../item/item';
 //import { Http } from '@angular/http';
 //import 'rxjs/add/operator/map';
@@ -200,8 +200,9 @@ export class SearchPage {
     ];
   
   
-  constructor(public navCtrl: NavController) {
+  constructor(public navCtrl: NavController, private navParams : NavParams) {
     this.initializeItems();
+	this.searchQuery = navParams.get('parts');
   //  this.http.get('https://api.backand.com/1/objects/categories').map(res => res.json()).subscribe(data => {
   //      this.posts = data.data.children;
   //      console.log(this.posts);
@@ -401,9 +402,15 @@ export class SearchPage {
   getItems(ev: any) {
     // Reset items back to all of the items
     this.initializeItems();
+	
+	let val = '';
 
     // set val to the value of the searchbar
-    let val = ev.target.value;
+	if (this.searchQuery !== '') {
+		val = this.searchQuery;
+	} else {
+		val = ev.target.value;
+	}
 
     // if the value is an empty string don't filter the items
     if (val && val.trim() != '') {

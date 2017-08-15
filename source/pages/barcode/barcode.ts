@@ -3,7 +3,7 @@ import { NavController } from 'ionic-angular';
 import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
 
-import { ItemPage } from '../item/item';
+import { SearchPage } from '../search/search';
 import { BarcodeScanner, BarcodeScannerOptions} from '@ionic-native/barcode-scanner';
 
 
@@ -28,7 +28,7 @@ export class BarcodePage {
   }
 
   itemtemp() {
-    this.navCtrl.push(ItemPage);
+    this.navCtrl.push(SearchPage, {parts : this.string_parts});
   }
 
   async scanBarcode(){
@@ -52,13 +52,13 @@ export class BarcodePage {
       if(data.itemname == ""){
         this.item_name = data.description
         alert("if is true, " + this.item_name);
-        this.processString(this.item_name);
+        this.string_parts = this.processString(this.item_name);
         return this.item_name;
       }
       else {
         this.item_name = data.itemname;
         alert("if is false, " + this.item_name);
-        this.processString(this.item_name);
+        this.string_parts = this.processString(this.item_name);
         return this.item_name;
       }
     })
