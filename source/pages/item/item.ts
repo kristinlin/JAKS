@@ -11,7 +11,6 @@ export class ItemPage {
 	
 	item;
 	itemTitle : string = '';
-	itemClass : number = 0;
 	itemHowTo : string = '';
 	itemPoints : number = 0;
 	itemCategory : string = '';
@@ -29,28 +28,43 @@ export class ItemPage {
 
 	initialize(index: number) {
 		
+		let itemClass : number = 0;
+		
 		this.backand.object.getOne('items', index) 
 		.then(res => {
 			console.log(res.data);
 			this.item = res.data;
 			this.itemTitle = this.item.oNAME;
-			this.itemClass = this.item.class;
+			itemClass = this.item.class;
+			console.log(itemClass);
 			this.itemHowTo = this.item.howTO;
 			this.itemPoints = this.item.points;
+			
+				
+			this.backand.object.getOne('categories',itemClass) 
+			.then(res => {
+				console.log(res.data);
+				this.itemCategory = res.data.cNAME;
+			}) 
+			.catch(err => {
+				console.log(err);
+			});
+			
 		}) 
 		.catch(err => {
 			console.log(err);
 		});
-		
+		/*
 		this.backand.object.getOne('categories',this.itemClass) 
 		.then(res => {
+			console.log('HELLO BITCHES');
 			console.log(res.data);
-			// this.itemCategory = res.data.cNAME;
+			console.log(res.data[this.itemClass-2]);
 		}) 
 		.catch(err => {
 			console.log(err);
 		});
-		
+		*/
 	}
   
   presentPrompt() {
