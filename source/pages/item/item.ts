@@ -11,9 +11,10 @@ export class ItemPage {
 	
 	item;
 	itemTitle : string = '';
-	itemClass : string = '';
+	itemClass : number = 0;
 	itemHowTo : string = '';
 	itemPoints : number = 0;
+	itemCategory : string = '';
 
 	constructor(	
 				public navCtrl: NavController, 
@@ -34,9 +35,17 @@ export class ItemPage {
 			this.item = res.data;
 			this.itemTitle = this.item.oNAME;
 			this.itemClass = this.item.class;
-			console.log(this.itemClass);
 			this.itemHowTo = this.item.howTO;
 			this.itemPoints = this.item.points;
+		}) 
+		.catch(err => {
+			console.log(err);
+		});
+		
+		this.backand.object.getOne('categories',this.itemClass) 
+		.then(res => {
+			console.log(res.data);
+			// this.itemCategory = res.data.cNAME;
 		}) 
 		.catch(err => {
 			console.log(err);

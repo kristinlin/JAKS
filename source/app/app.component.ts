@@ -13,7 +13,10 @@ export class MyApp implements OnInit {
   rootPage:any = TabsPage;
   res: string;
 
-  constructor(platform: Platform, statusBar: StatusBar, splashScreen: SplashScreen, private backand: BackandService) {
+  constructor(	platform: Platform, 
+				statusBar: StatusBar, 
+				splashScreen: SplashScreen, 
+				xsprivate backand: BackandService) {
     platform.ready().then(() => {
       statusBar.styleDefault();
       splashScreen.hide();
