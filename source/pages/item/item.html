@@ -1,7 +1,7 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>
-      {{ itemTitle }}
+  <ion-navbar> 
+    <ion-title> 
+	{{ itemTitle }}
     </ion-title>
   </ion-navbar>
 </ion-header>
@@ -10,10 +10,12 @@
   <div class="al">
     <button click="presentPrompt()" class="points">Collect imported points</button>
   </div>
+    <br/> 
+    <p class="itemname">{{itemTitle }} <p>
     <br/>
-    <p class="itemname">import item</p>
+    <p class="class">{{ itemClass }}<p>
+	<br/>
+    <p class="point">POINTS: {{ itemPoints}}<p>
     <br/>
-    <p class="status">import disposal status<p>
-    <br/>
-    <p class="iteminfo">Import item information</p>
+    <p class="iteminfo">{{ itemHowTo }}</p>
 </ion-content>

@@ -9,21 +9,34 @@ import { BackandService } from '@backand/angular2-sdk';
 })
 export class ItemPage {
 	
+	item;
 	itemTitle : string = '';
+	itemClass : string = '';
+	itemHowTo : string = '';
+	itemPoints : number = 0;
 
 	constructor(	
 				public navCtrl: NavController, 
 				private alertCtrl: AlertController, 
 				private navParams : NavParams, 
 				private backand: BackandService) {
-		this.itemTitle = navParams.get('title');
-		this.initialize();
+		// index : number;
+		// index = navParams.get('title');
+		this.initialize(navParams.get('title'));
+		
 	}
 
-	initialize() {
-		this.backand.object.getOne('items', 183) 
+	initialize(index: number) {
+		
+		this.backand.object.getOne('items', index) 
 		.then(res => {
 			console.log(res.data);
+			this.item = res.data;
+			this.itemTitle = this.item.oNAME;
+			this.itemClass = this.item.class;
+			console.log(this.itemClass);
+			this.itemHowTo = this.item.howTO;
+			this.itemPoints = this.item.points;
 		}) 
 		.catch(err => {
 			console.log(err);
