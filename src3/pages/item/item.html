@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+	{{ itemTitle }}
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <div class="al">
+    <span class="itemname">{{itemTitle }} </span>
+    <button click="pointsval()" class="points">Collect imported points</button>
+  </div>
+  <br/>
+  <div class="content">
+    <span class="class">Category: {{ itemCategory }}</span>
+    <br/>
+    <span class="point">Points: {{ itemPoints }}</span>
+    <br/>
+    <br/>
+    <span>Item Information:</span>
+    <br/>
+    <span class="iteminfo">{{ itemHowTo }}</span>
+  </div>
+</ion-content>
